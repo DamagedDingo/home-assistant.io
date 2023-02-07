@@ -71,15 +71,16 @@ This is a separate account from the one you made for the app. You cannot log in 
 7. Click `Authorize`.
 
 ### Link devices by app account
-
-1. Navigate to the `Devices` tab.
-2. Click `Link Tuya App Account` > `Add App Account`.
+1. Sign out of the [Tuya IoT Platform](https://iot.tuya.com/)
+2. Sign into the [Tuya IoT Platform](https://iot.tuya.com/)
+3. Navigate to the `Devices` tab.
+4. Click `Link Tuya App Account` > `Add App Account`.
   ![](/images/integrations/tuya/image_003.png)
-3. Scan the QR code that appears using the `Tuya Smart` app or `Smart Life` app.
+5. Scan the QR code that appears using the `Tuya Smart` app or `Smart Life` app.
   ![](/images/integrations/tuya/image_004.png)
-4. Click `Confirm` in the app.
-5. To confirm that everything worked, navigate to the `All Devices` tab. Here you should be able to find the devices from the app.
-6. If zero devices are imported, try changing the DataCenter and check the account used is the "Home Owner".
+6. Click `Confirm` in the app.
+7. To confirm that everything worked, navigate to the `All Devices` tab. Here you should be able to find the devices from the app.
+8. If zero devices are imported, try changing the DataCenter and check the account used is the "Home Owner".
    You can change DataCenter by clicking the Cloud icon on the left menu, then clicking the Edit link in the Operation column for your newly created project. You can change DataCenter in the popup window.
 
 ![](/images/integrations/tuya/image_005.png)
